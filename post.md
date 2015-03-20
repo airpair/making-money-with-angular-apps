@@ -1,4 +1,4 @@
-This is a startup guide for developers to integrate payments (PayPal and Credit Cards) to their Angular applications.
+This is a startup guide for developers who want to integrate payments (PayPal and Credit Cards) to their Angular applications.
 
 It shows all the steps necessary to create a transaction sale using:
 - Server written in Node;
