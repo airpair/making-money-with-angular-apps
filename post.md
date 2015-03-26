@@ -158,6 +158,9 @@ app.listen(3000, function () {
   "dependencies": {
     "angular": "~1.3.14",
     "angular-material": "~0.8.1",
+    "angular-animate": "~1.3.5",
+    "angular-aria": "~1.3.5",
+    "hammerjs": "~2.0.4",
     "braintree-web": "~2.5.1"
   }
 }
